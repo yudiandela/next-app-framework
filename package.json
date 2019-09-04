@@ -1,0 +1,23 @@
+{
+  "name": "next-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": {
+    "email": "yudhi.andhela@gmail.com",
+    "name": "Yudi Andela",
+    "url": "https://github.com/yudiandela/next-app-framework.git"
+  },
+  "license": "GNU",
+  "dependencies": {
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
